@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453357502609",
+    "project_id": "trial-5d05a",
+    "storage_bucket": "trial-5d05a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453357502609:android:873b069c52a5d7325d7f30",
+        "android_client_info": {
+          "package_name": "com.example.envision_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd9Krok_FNJuhHeu0U6jVcpp7yQMupx9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
